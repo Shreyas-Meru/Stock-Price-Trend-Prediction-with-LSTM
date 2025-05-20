@@ -43,11 +43,11 @@ Model is stored in:
 
 ## 📸 Screenshots
 
-![Main Dashboard](assets/main_dashboard.png)  
+![Main Dashboard](https://github.com/user-attachments/assets/cc3f8426-2546-4e3d-b9fb-d3b78e29d1cb)  
 *Main dashboard with input fields and prediction controls*
 
-![Predicted vs Actual](assets/predicted_vs_actual.png)  
-*Line chart of past 5 days and predicted price trend*
+![Stock Prediction](https://github.com/user-attachments/assets/efe34b4e-ed5e-4f90-b956-1e6302fb79af)
+*Line chart of past 4 days and predicted price trend*
 
 ---
 
